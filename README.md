@@ -87,7 +87,7 @@ Hi! I'm **Gian Paulo Austria**, a passionate QA professional with 7+ years of ex
   - CIF
   - Regulatory-E Disputes
 
-### **4. MSIG Insurance**
+### **4. MSIG**
 - **Objective**: Ensure seamless UAT testing of policy endorsement and renewal functionalities.
 - **My Role**:
   - Simulated policy-related issues in UAT environments.
