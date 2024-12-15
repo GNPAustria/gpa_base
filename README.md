@@ -1,6 +1,3 @@
-# gpa_base
-Repository for Basic Info on me
-
 # QA Portfolio: Projects, Artifacts, and Skills
 
 ## About Me
@@ -61,7 +58,7 @@ Hi! I'm **Gian Paulo Austria**, a passionate QA professional with 7+ years of ex
   - Multi-currency Time Deposit
   - Stocks and Crypto
 - **Artifacts**:
-  - [Test Cases](#)
+  - [Test Cases](./Sample Execution Test Cases.xlsx)
 
 ### **2. CIMB Philippines**
 - **Objective**: Test reliability of migrated data and ensure app function continuity on the new platform.
@@ -107,29 +104,7 @@ A sample test case document demonstrating step-by-step testing processes, includ
 - Test Steps
 - Expected and Actual Results
 
-[View Sample Test Case](#)
-
-### **2. Defect Logs**
-A sample defect report highlighting:
-- Issue Description
-- Severity and Priority
-- Steps to Reproduce
-- Resolution Details
-
-[View Defect Log](#)
-
-### **3. Test Plan**
-A high-level document detailing the objectives, scope, approach, and schedule of testing activities.
-
-[View Test Plan](#)
-
-### **4. Regression Testing Report**
-A report summarizing regression testing efforts, including:
-- Test Case Execution Summary
-- Pass/Fail Metrics
-- Major Issues Identified
-
-[View Regression Report](#)
+[View Sample Test Case](./Sample Execution Test Cases.xlsx)
 
 ---
 
