@@ -58,7 +58,7 @@ Hi! I'm **Gian Paulo Austria**, a passionate QA professional with 7+ years of ex
   - Multi-currency Time Deposit
   - Stocks and Crypto
 - **Artifacts**:
-  - [Test Cases](./gpa_base/Sample Execution Test Cases.xlsx)
+  - [Test Cases](./Sample_Exec_Test_Cases.xlsx)
 
 ### **2. CIMB Philippines**
 - **Objective**: Test reliability of migrated data and ensure app function continuity on the new platform.
@@ -104,7 +104,7 @@ A sample test case document demonstrating step-by-step testing processes, includ
 - Test Steps
 - Expected and Actual Results
 
-[View Sample Test Case](./gpa_base/Sample Execution Test Cases.xlsx)
+[View Sample Test Case](./Sample_Exec_Test_Cases.xlsx)
 
 ---
 
